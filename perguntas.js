@@ -1,23 +1,24 @@
 criaCartao(
     'Geografia',
-    'O que é o "Cinturão de Fogo do Pacífico"?',
-    'O Python é uma linguagem de programação'
+    ': O que é a globalização?',
+    'A globalização é o processo de integração econômica, social e cultural entre os países, com o aumento das trocas comerciais e da comunicação.'
     )
     
     criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    ' Quais são as principais fontes de energia renovável no Brasil?',
+    'As principais fontes de energia renovável no Brasil são a energia hidrelétrica, solar, eólica e biomassa.'
     )
     
     criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    ' O que foi a Inconfidência Mineira?',
+    'Foi um movimento separatista ocorrido no Brasil colonial, no final do século XVIII, contra a exploração econômica portuguesa. '
     )
     
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Atualidades e Sociais',
+    ' O que é o aquecimento global e quais suas principais consequências?',
+    ' O aquecimento global é o aumento da temperatura média da Terra devido à emissão excessiva de gases do efeito estufa. '
     )
+
